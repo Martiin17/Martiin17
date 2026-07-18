@@ -1,15 +1,29 @@
-<img align="right" src="./assets/squirtle-eating.gif" width="280" alt="Squirtle eating onigiri"/>
+<table>
+<tr>
+<td width="65%" valign="top">
 
 # Hi there! I'm Martín 👋
 
-I'm a Computer Engineering student who enjoys building things, learning new technologies, and solving problems through code.
+I'm a **Computer Engineering student** who enjoys building things, learning new technologies, and solving problems through code.
 
 Most of my repositories are academic or personal projects where I explore different areas of software engineering while continuously improving my skills.
 
 - 🎓 Computer Engineering Student
 - 🌱 Always learning something new
-- 💡 Interested in Software Engineering, Data Science and AI
-- 🚀 Building projects to keep improving every day
+- 💡 Interested in Software Engineering, Data Science & AI
+- 🚀 Building projects to improve every day
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/squirtle-eating.gif" width="220" alt="Squirtle eating onigiri">
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📫 Connect with me
 
