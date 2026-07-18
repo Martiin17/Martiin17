@@ -1,4 +1,4 @@
-<img align="right" src="assets/squirtle-eating.gif" width="32%">
+<img align="right" src="./assets/squirtle-eating.gif" width="280" alt="Squirtle eating onigiri"/>
 
 # Hi there! I'm Martín 👋
 
