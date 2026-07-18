@@ -14,15 +14,15 @@ Most of my repositories are academic or personal projects where I explore differ
 ## 📫 Connect with me
 
 <p>
-	<a href="mailto:TU_EMAIL">
+	<a href="mailto:martindscastro@homtmail.com">
 		<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
 	</a>
 
-	<a href="https://github.com/TU_USUARIO">
+	<a href="https://github.com/Martiin17">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
 	</a>
 
-	<a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+	<a href="https://www.linkedin.com/in/www.linkedin.com/in/martin-castro-dr17/">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 </p>
