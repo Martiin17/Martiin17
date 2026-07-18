@@ -1,23 +1,48 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Software+Engineering;Data+Science;Machine+Learning;Always+Learning+Something+New"/>
+</p>
+
 <table>
 <tr>
 <td width="65%" valign="top">
 
 # Hi there! I'm Martín 👋
 
-I'm a **Computer Engineering student** who enjoys building things, learning new technologies, and solving problems through code.
+### Computer Engineering Student
 
-Most of my repositories are academic or personal projects where I explore different areas of software engineering while continuously improving my skills.
+I enjoy building software, exploring new technologies, and solving problems through code.
 
-- 🎓 Computer Engineering Student
-- 🌱 Always learning something new
-- 💡 Interested in Software Engineering, Data Science & AI
-- 🚀 Building projects to improve every day
+Most of my repositories are academic or personal projects where I experiment with software engineering, backend development, data science, and machine learning while continuously improving my skills.
+
+🎓 Computer Engineering Student
+
+🌱 Always learning
+
+💡 Interested in Software Engineering, Data Science & AI
+
+🚀 Building projects every day
+
+<br>
+
+<p>
+<a href="mailto:martindscastro@hotmail.com">
+<img src="https://cdn.simpleicons.org/gmail" height="32"/>
+</a>
+
+<a href="https://github.com/Martiin17">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
+</a>
+
+<a href="https://www.linkedin.com/in/martin-castro-dr17/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
+</a>
+</p>
 
 </td>
 
 <td width="35%" align="center">
 
-<img src="./assets/squirtle-eating.gif" width="220" alt="Squirtle eating onigiri">
+<img src="./assets/squirtle-eating.gif" width="220">
 
 </td>
 </tr>
@@ -25,75 +50,42 @@ Most of my repositories are academic or personal projects where I explore differ
 
 ---
 
-## 📫 Connect with me
+# 🛠 Tech Stack
 
-<p align="left">
-  <a href="mailto:martindscastro@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://github.com/Martiin17">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/martin-castro-dr17/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white">
-  </a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=rust,python,java,c,cpp,fastapi,mysql,git,github,vscode&perline=5"/>
 </p>
 
 ---
 
-## 💻 Languages
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📚 Libraries
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
----
-
-## ⚙️ Frameworks
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-## 🛠 Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
----
-
-## 🚀 Current Focus
-
-- Machine Learning
-- Data Analysis
-- Backend Development
-- Software Engineering
-
----
-
-## 📈 GitHub Stats
+# 📚 Data Science Libraries
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Martiin17&show_icons=true&theme=transparent&hide_border=true"/>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=Martiin17&theme=transparent&hide_border=true"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=Martiin17&theme=transparent&hide_border=true"/>
+
 </p>
