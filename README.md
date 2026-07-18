@@ -13,18 +13,18 @@ Most of my repositories are academic or personal projects where I explore differ
 
 ## 📫 Connect with me
 
-<p>
-	<a href="mailto:martindscastro@homtmail.com">
-		<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-	</a>
+<p align="left">
+  <a href="mailto:martindscastro@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white">
+  </a>
 
-	<a href="https://github.com/Martiin17">
-		<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-	</a>
+  <a href="https://github.com/Martiin17">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white">
+  </a>
 
-	<a href="https://www.linkedin.com/in/martin-castro-dr17/">
-	    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-	</a>
+  <a href="https://www.linkedin.com/in/martin-castro-dr17/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -79,6 +79,7 @@ Most of my repositories are academic or personal projects where I explore differ
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Martiin17&show_icons=true&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Martiin17&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Martiin17&show_icons=true&theme=transparent&hide_border=true"/>
+
+  <img height="170" src="https://streak-stats.demolab.com?user=Martiin17&theme=transparent&hide_border=true"/>
 </p>
